@@ -4,7 +4,7 @@ keywords: "studio, damien, mayance, matthieu, oger, eddy, margueron, games, apps
 
 google_tracking_code: ""
 # protocol & hostname for your site (it does not end with a '/')
-url: https://nafergo.github.io
+url: https://nafergo.github.io/webtest
 
 repository: "nafergo/webtest"
 base_url: /webtest
