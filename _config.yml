@@ -3,6 +3,8 @@ description: "B Studio is a two-people studio. We also do contract work."
 keywords: "studio, damien, mayance, matthieu, oger, eddy, margueron, games, apps, development, mobile, web, steredenn, flipon, cthuloot"
 
 google_tracking_code: ""
+# protocol & hostname for your site (it does not end with a '/')
+url: https://nafergo.github.io
 
 repository: "nafergo/webtest"
 base_url: /webtest
