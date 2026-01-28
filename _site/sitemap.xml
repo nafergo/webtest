@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1" xmlns:video="http://www.sitemaps.org/schemas/sitemap-video/1.1">
+
+  <!-- main -->
+  <url>
+    <loc>https://pixelnest.io/</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+    <!-- rss -->
+  <url>
+    <loc>https://pixelnest.io/atom.xml</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- portfolio -->
+  <url>
+    <loc>https://pixelnest.io/portfolio/</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- services -->
+  <url>
+    <loc>https://pixelnest.io/services/</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- journal -->
+  <url>
+    <loc>https://pixelnest.io/journal/</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- contact -->
+  <url>
+    <loc>https://pixelnest.io/contact/</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- about -->
+  <url>
+    <loc>https://pixelnest.io/about/</loc>
+    <lastmod>2026-01-28T19:06:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- posts -->
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2023/05/coming-back/</loc>
+
+	      
+	        <lastmod>2023-05-13T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/11/the-beginning-and-the-end-copy/</loc>
+
+	      
+	        <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/08/cloudy-build-1-0-0-presskit-html-0-12-1/</loc>
+
+	      
+	        <lastmod>2018-08-21T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/07/steredenn-physical-releases/</loc>
+
+	      
+	        <lastmod>2018-07-30T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/04/steredenn-binary-stars-on-steam-and-xbox-one/</loc>
+
+	      
+	        <lastmod>2018-04-10T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/03/steredenn-binary-stars-on-nintendo-switch/</loc>
+
+	      
+	        <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/03/announcing-steredenn-ama-on-reddit-and-new-ost/</loc>
+
+	      
+	        <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/03/steredenn-binary-stars-only-one-week-away/</loc>
+
+	      
+	        <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2018/02/steredenn-binary-stars-announcement/</loc>
+
+	      
+	        <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2017/05/steredenn-ios/</loc>
+
+	      
+	        <lastmod>2017-05-11T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2017/03/presskit-html/</loc>
+
+	      
+	        <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2016/06/pixelnest-v2/</loc>
+
+	      
+	        <lastmod>2016-06-22T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2016/03/steredenn-xbox-one/</loc>
+
+	      
+	        <lastmod>2016-03-21T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2016/02/second-anniversary/</loc>
+
+	      
+	        <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2015/10/steredenn-out/</loc>
+
+	      
+	        <lastmod>2015-10-01T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2015/05/steredenn-early-access/</loc>
+
+	      
+	        <lastmod>2015-05-18T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2015/02/egx-rezzed/</loc>
+
+	      
+	        <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2015/01/steredenn-greenlight/</loc>
+
+	      
+	        <lastmod>2015-01-15T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/12/xbox-one/</loc>
+
+	      
+	        <lastmod>2014-12-04T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/10/steredenn-teaser-2/</loc>
+
+	      
+	        <lastmod>2014-10-13T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/09/a-new-name/</loc>
+
+	      
+	        <lastmod>2014-09-08T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/08/pixelnest-overview/</loc>
+
+	      
+	        <lastmod>2014-08-13T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/08/steredenn/</loc>
+
+	      
+	        <lastmod>2014-08-11T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/06/bulletml-for-unity-50-off/</loc>
+
+	      
+	        <lastmod>2014-06-17T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/04/shmupfest-trailer/</loc>
+
+	      
+	        <lastmod>2014-04-23T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/04/bulletml-for-unity/</loc>
+
+	      
+	        <lastmod>2014-04-08T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/03/unity-touch-controls-tutorial/</loc>
+
+	      
+	        <lastmod>2014-03-14T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/02/shmupfest/</loc>
+
+	      
+	        <lastmod>2014-02-12T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2014/02/pixelnest-studio/</loc>
+
+	      
+	        <lastmod>2014-02-11T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2013/12/rampaint/</loc>
+
+	      
+	        <lastmod>2013-12-17T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2013/12/unity-2d-animations-tutorial/</loc>
+
+	      
+	        <lastmod>2013-12-10T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2013/11/external-resources/</loc>
+
+	      
+	        <lastmod>2013-11-26T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2013/11/unity-2D-tutorial/</loc>
+
+	      
+	        <lastmod>2013-11-18T00:00:00+00:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+    
+      <url>
+	      <loc>https://pixelnest.io/2013/09/breaking-news/</loc>
+
+	      
+	        <lastmod>2013-09-26T00:00:00+01:00</lastmod>
+	      
+	      <changefreq>monthly</changefreq>
+	      <priority>0.5</priority>
+      </url>
+     
+  
+
+  <!-- products -->
+  
+    <url>
+      <loc>https://pixelnest.io/products/creating-game-unity/</loc>
+
+      
+        <lastmod>2013-11-18T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/krokmou/</loc>
+
+      
+        <lastmod>2014-01-31T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/bulletml-for-unity/</loc>
+
+      
+        <lastmod>2014-04-08T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/shmupfest/</loc>
+
+      
+        <lastmod>2014-04-23T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/steredenn/</loc>
+
+      
+        <lastmod>2015-10-01T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/conquest/</loc>
+
+      
+        <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/michelin/</loc>
+
+      
+        <lastmod>2016-05-31T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/laval3di/</loc>
+
+      
+        <lastmod>2016-09-15T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/orage/</loc>
+
+      
+        <lastmod>2016-11-29T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/presskit.html/</loc>
+
+      
+        <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/daring-discoverers/</loc>
+
+      
+        <lastmod>2017-06-15T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/steredenn-binary-stars/</loc>
+
+      
+        <lastmod>2018-03-08T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/loreal/</loc>
+
+      
+        <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/machiavillain/</loc>
+
+      
+        <lastmod>2018-06-24T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/flat-eye/</loc>
+
+      
+        <lastmod>2018-09-17T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/night-call/</loc>
+
+      
+        <lastmod>2018-09-17T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/flipon/</loc>
+
+      
+        <lastmod>2020-10-20T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pixelnest.io/products/cthuloot/</loc>
+
+      
+        <lastmod>2023-05-13T00:00:00+01:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+</urlset>

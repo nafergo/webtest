@@ -1,0 +1,20 @@
+---
+title: Journal
+subtitle: read the lastest news from the studio
+
+# Careful: adding a permalink will break the paginator (which is no longer maintained…)
+# So, for the moment, we need to let journal in its own folder.
+---
+
+{% for entry in paginator.posts %}
+  {% assign entry_url      = entry.url %}
+  {% assign entry_title    = entry.title %}
+  {% assign entry_subtitle = entry.subtitle %}
+  {% assign entry_author   = entry.author %}
+  {% assign entry_date     = entry.date %}
+  {% assign entry_content  = entry.content %}
+
+  {% include components/entry.html %}
+{% endfor %}
+
+{% include components/pager.html %}

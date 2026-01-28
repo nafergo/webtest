@@ -1,0 +1,76 @@
+---
+title: About
+
+subtitle: <em>pixelnest</em>
+permalink: /about/
+---
+
+<section class="studio basic-grid">
+  <p class="studio__description"><strong>Pixelnest Studio</strong> is a company based in <strong>Rennes</strong>, France.</p>
+
+  <div class="studio__members row">
+    <div class="col">
+      {% assign member_name     = "Damien Mayance" %}
+      {% assign member_id       = "damien" %}
+      {% assign member_avatar   = "http://www.gravatar.com/avatar/545f7c7f0ed11d6ef21722a7e6c47acf?s=400" %}
+      {% assign member_site     = "https://dmayance.com" %}
+      {% assign member_twitter  = "valryon" %}
+      {% assign member_linkedin = "damienmayance" %}
+
+      {% include components/member.html %}
+    </div>
+
+    <div class="col">
+      {% assign member_name     = "Eddy Margueron" %}
+      {% assign member_id       = "eddy" %}
+      {% assign member_avatar   = "https://pixelnest.io/static/images/team/eddy.png" %}
+      {% assign member_site     = "https://skia.artstation.com/" %}
+      {% assign member_twitter  = "skia" %}
+      {% assign member_linkedin = "eddy-margueron/" %}
+
+      {% include components/member.html %}
+    </div>
+  </div>
+</section>
+
+
+<section class="studio basic-grid">
+  <p class="studio__description">Previous members</p>
+
+  <div class="studio__members row">
+    <div class="col">
+      {% assign member_name     = "Matthieu Oger (2014 - 2024)" %}
+      {% assign member_id       = "matthieu" %}
+      {% assign member_avatar   = "/static/images/team/moger.jpg" %}
+      {% assign member_site     = "https://matthieuoger.com" %}
+      {% assign member_twitter  = "solarsailer" %}
+      {% assign member_linkedin = "matthieuoger" %}
+
+      {% include components/member.html %}
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <h1 class="block__title">Press</h1>
+
+  <div class="block__content">
+    <p>We have a <a href="/presskit">complete press kit available online</a>.</p>
+  </div>
+</section>
+
+<section class="block">
+  <h1 class="block__title">Attributions</h1>
+
+  <div class="block__content">
+    <p>Entypo pictograms by Daniel Bruce — <a href="http://www.entypo.com/">entypo.com</a>.</p>
+
+    <p>The site is hosted on <a href="https://github.com/">Github</a>, and built with <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+  </div>
+</section>
+
+<section class="block">
+  <h1 class="block__title">Legal</h1>
+
+  {% include components/legal.html %}
+</section>
