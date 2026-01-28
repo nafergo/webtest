@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: nafergo/webtest
-  base_url: 
+  repo: nafergo
+  base_url: /webtest
 
 media_folder: "static/images/uploads"
 
