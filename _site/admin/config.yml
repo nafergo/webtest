@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: pixelnest/pixelnest.github.io
-  base_url: http://netlifycms-github-auth.pxn.io
+  repo: nafergo/webtest
+  base_url: 
 
 media_folder: "static/images/uploads"
 
 collections:
   - name: "journal"
-    label: "Journal"
+    label: "Blog"
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # YYYY-MM-DD-title.md
