@@ -5,6 +5,7 @@ keywords: "studio, damien, mayance, matthieu, oger, eddy, margueron, games, apps
 google_tracking_code: ""
 
 repository: "nafergo/webtest"
+base_url: https://nafergo.github.io/webtest/
 
 # -------------------------------------------------------
 # Globals.
