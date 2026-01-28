@@ -19,7 +19,9 @@
 }
 
 .logo__link:hover .logo__image img {
-  transform: rotateZ(360deg);
+  transform: rotate(360deg);
+  filter: blur(5px);
+
 }
 
 .logo__link:hover .logo__name {
