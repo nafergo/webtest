@@ -51,16 +51,16 @@
 }
 
 .member__item--site a {
-  background-image: url("/static/images/icons/member-site.png");
+  background-image: url("/static/images/icons/member-site.svg");
 }
 
-.member__item--twitter a {
-  background-image: url("/static/images/icons/member-twitter.png");
+.member__item--mastodon a {
+  background-image: url("/static/images/icons/member-mastodon.svg");
 }
 
-.member__item--linkedin a {
+.member__item--instagram a {
   padding-left: 24px;
 
-  background-image: url("/static/images/icons/member-linkedin.png");
+  background-image: url("/static/images/icons/member-instagram.svg");
   background-position: left top;
 }

@@ -6,8 +6,9 @@
         <div class="logo__image">
           <img src="/static/images/logo/logo_shadow.png" alt="Pixelnest Studio" title="Pixelnest Studio">
         </div>
-
-        <h1 class="logo__name">Balborinho</h1>
+       <div class="logo__name">
+          <img src="/static/images/logo/logo-text.svg" alt="Balborinho Studio" title="Balborinho Studio" style="width: 5em;">
+      </div>
       </a>
     </div>
   </section>
@@ -15,33 +16,23 @@
   <nav class="navbar">
     <ul class="navbar__list">
       <li class="navbar__item">
-        <a href="/portfolio/" {% if page.url contains '/portfolio' %}class="is-active"{% endif %}>
-          Portfolio
+        <a href="/projects/" {% if page.url contains '/projecos' %}class="is-active"{% endif %}>
+          Projetos
         </a>
       </li>
-<!--      <li class="navbar__item">
-        <a href="/services/" {% if page.url contains '/service' %}class="is-active"{% endif %}>
-          Services
-        </a>
-      </li>
-      <li class="navbar__item">
-        <a href="/tutorials/" {% if page.url contains '/tutorials' %}class="is-active"{% endif %}>
-          Tutorials
-        </a>
-      </li>-->
       <li class="navbar__item">
         <a href="/journal/" {% if page.url contains '/journal' %}class="is-active"{% endif %}>
-          Journal
+          Notícias
         </a>
       </li>
       <li class="navbar__item">
-        <a href="/contact/" {% if page.url contains '/contact' %}class="is-active"{% endif %}>
-          Contact
+        <a href="/contacts/" {% if page.url contains '/contacts' %}class="is-active"{% endif %}>
+          Contactos
         </a>
       </li>
       <li class="navbar__item">
         <a href="/about/" {% if page.url contains '/about' %}class="is-active"{% endif %}>
-          About
+          Sobre nós
         </a>
       </li>
     </ul>

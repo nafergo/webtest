@@ -13,7 +13,7 @@
       <a href="{{ product.url }}">
         {{ item.title }}
       </a>
-      {% assign sorted = item.type | sort %}
+      {% assign sorted = item.type | unsort %}
       {% for t in sorted %}
         {% if t == 'service' %}
         <span class="product-item__type product-item__type--service">Client Work</span>

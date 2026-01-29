@@ -6,6 +6,12 @@ assets: /static/images/products/orage/
 date: 2016-11-29
 
 state: dead
+projecttype: dead
+
+# If you want to write
+# a block-commented Haiku
+# you'll need three pound signs
+
 
 links:
   - name: "Captures & Gifs"

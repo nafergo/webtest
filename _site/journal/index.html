@@ -6,7 +6,7 @@
 
 
   
-  <title>Journal — B Studio</title>
+  <title>Blog — B Studio</title>
 
 
 <!-- Misc. -->
@@ -25,7 +25,7 @@
 
 <!-- Twitter. -->
 
-<meta name="twitter:title"       content="Journal — Pixelnest Studio">
+<meta name="twitter:title"       content="Blog — Pixelnest Studio">
 
 <meta name="twitter:description" content="B Studio is a two-people studio. We also do contract work.">
 <meta name="twitter:card"        content="summary">
@@ -37,7 +37,7 @@
 
 <!-- OpenGraph. -->
 
-<meta property="og:title"        content="Journal — Pixelnest Studio">
+<meta property="og:title"        content="Blog — Pixelnest Studio">
 
 <meta property="og:description"  content="B Studio is a two-people studio. We also do contract work.">
 <meta property="og:locale"       content="en">
@@ -53,7 +53,7 @@
 <link rel="stylesheet" type="text/css" href="/static/fonts/bebas-neue/font.css">
 
 
-  <link rel="stylesheet" href="/static/bundle.css">
+  <link rel="stylesheet" href="http://localhost:4000/static/bundle.css">
 
 
 </head>
@@ -67,8 +67,9 @@
         <div class="logo__image">
           <img src="/static/images/logo/logo_shadow.png" alt="Pixelnest Studio" title="Pixelnest Studio">
         </div>
-
-        <h1 class="logo__name">Balborinho</h1>
+       <div class="logo__name">
+          <img src="/static/images/logo/logo-text.svg" alt="Balborinho Studio" title="Balborinho Studio" style="width: 5em;">
+      </div>
       </a>
     </div>
   </section>
@@ -76,33 +77,23 @@
   <nav class="navbar">
     <ul class="navbar__list">
       <li class="navbar__item">
-        <a href="/portfolio/" >
-          Portfolio
+        <a href="/projects/" >
+          Projetos
         </a>
       </li>
-<!--      <li class="navbar__item">
-        <a href="/services/" >
-          Services
-        </a>
-      </li>
-      <li class="navbar__item">
-        <a href="/tutorials/" >
-          Tutorials
-        </a>
-      </li>-->
       <li class="navbar__item">
         <a href="/journal/" class="is-active">
-          Journal
+          Notícias
         </a>
       </li>
       <li class="navbar__item">
-        <a href="/contact/" >
-          Contact
+        <a href="/contacts/" >
+          Contactos
         </a>
       </li>
       <li class="navbar__item">
         <a href="/about/" >
-          About
+          Sobre nós
         </a>
       </li>
     </ul>
@@ -143,14 +134,13 @@
   <aside class="entry__metadata">
     <figure class="entry__author">
   
-      <img alt="Damien Mayance"
-           title="Damien Mayance"
-           src="http://www.gravatar.com/avatar/545f7c7f0ed11d6ef21722a7e6c47acf?s=200">
+      <img alt="Pixelnest Studio"
+           title="Pixelnest Studio"
+           src="/static/images/team/pixelnest.png">
       <figcaption>
-        <a href="/about/#damien">Damien</a>
+        <a href="/about/">Pixelnest</a>
       </figcaption>
-
-    
+  
 </figure>
 
 
@@ -195,8 +185,8 @@
       </div>
       <div class="trilogy__pane trilogy__pane--right">
         
-            By Damien Mayance
-          
+            By Pixelnest Studio
+        
       </div>
     </div>
   </footer>
@@ -233,14 +223,13 @@
   <aside class="entry__metadata">
     <figure class="entry__author">
   
-      <img alt="Damien Mayance"
-           title="Damien Mayance"
-           src="http://www.gravatar.com/avatar/545f7c7f0ed11d6ef21722a7e6c47acf?s=200">
+      <img alt="Pixelnest Studio"
+           title="Pixelnest Studio"
+           src="/static/images/team/pixelnest.png">
       <figcaption>
-        <a href="/about/#damien">Damien</a>
+        <a href="/about/">Pixelnest</a>
       </figcaption>
-
-    
+  
 </figure>
 
 
@@ -289,207 +278,8 @@
       </div>
       <div class="trilogy__pane trilogy__pane--right">
         
-            By Damien Mayance
-          
-      </div>
-    </div>
-  </footer>
-</article>
-
-
-  
-  
-  
-  
-  
-  
-
-  
-
-
-
-
-<article class="entry">
-  <header class="entry__header">
-    <h1 class="entry__title">
-      <a href="/2018/08/cloudy-build-1-0-0-presskit-html-0-12-1/">
-        Cloudy Build 1.0.0 &amp; presskit.html 0.12.1
-      </a>
-    </h1>
-
-    
-      <h2 class="entry__subtitle">
-        New tool and new release
-      </h2>
-    
-  </header>
-
-  <aside class="entry__metadata">
-    <figure class="entry__author">
-  
-      <img alt="Matthieu Oger"
-           title="Matthieu Oger"
-           src="/static/images/team/moger.jpg">
-      <figcaption>
-        <a href="/about/#matthieu">Matthieu</a>
-      </figcaption>
-
-    
-</figure>
-
-
-    <footer class="entry__date">
-      21 aug. 2018
-    </footer>
-  </aside>
-
-  <div class="entry__content">
-    <h2 id="cloudy-build-100">Cloudy Build 1.0.0</h2>
-
-<p>Last week, we released a small tool called Cloudy Build.</p>
-
-<p><a href="https://cloudy-build.pxn.io/">Try Cloudy Build.</a></p>
-
-<p>We use Unity Cloud Build as our continuous integration pipeline for our Unity projects. This is pretty cool, but the process to install a new build is a bit cumbersome.</p>
-
-<p>Enter <strong>Cloudy Build</strong>: get your API key, save your org name, press the button, and boom, you have your latest builds. Generate the link and download right away.</p>
-
-<p>It doesn’t look like much, but this can be super useful on mobile phones to get your latest build and try it ASAP, in a few seconds.</p>
-
-<p>Cloudy Build does not store anything and the code is <a href="https://github.com/solarsailer/cloudy-build">open-source</a>.</p>
-
-<h2 id="presskithtml-0121">presskit.html 0.12.1</h2>
-
-<p><em>(From <code class="language-plaintext highlighter-rouge">0.7.0</code> to <code class="language-plaintext highlighter-rouge">0.12.1</code>)</em></p>
-
-<p>We did a bit of work on <a href="https://github.com/pixelnest/presskit.html"><code class="language-plaintext highlighter-rouge">presskit.html</code></a> recently.</p>
-
-<p>We released <code class="language-plaintext highlighter-rouge">presskit.html</code> <code class="language-plaintext highlighter-rouge">0.7.0</code> a month ago, and since then, we added many new features, culminating in <code class="language-plaintext highlighter-rouge">presskit.html</code> <code class="language-plaintext highlighter-rouge">0.12.1</code>.</p>
-
-<p>So, what’s new?</p>
-
-<ul>
-  <li>Generate thumbnails automagically. This is huge, and can save tons of megabytes.</li>
-  <li>Handle image categories. If you wrap some images in a subfolder inside an <code class="language-plaintext highlighter-rouge">images/</code> folder, a category will be infered from this.</li>
-  <li>Show your <code class="language-plaintext highlighter-rouge">&lt;partners&gt;</code> in the factsheet, or add more information about them with a new <code class="language-plaintext highlighter-rouge">&lt;abouts&gt;</code> tag.</li>
-  <li>You can add a <code class="language-plaintext highlighter-rouge">&lt;download&gt;</code> link for your video.</li>
-  <li>New widget: Game Jolt (PR by <a href="https://github.com/ruscoe">@ruscoe</a>).</li>
-  <li>Finish the documentation of the <a href="http://pixelnest.io/presskit.html/product/">product page</a>.</li>
-  <li>Improve the documentation (layout, style, data, examples).</li>
-  <li>Refactoring and tweaks to the code.</li>
-</ul>
-
-<p>If you use <code class="language-plaintext highlighter-rouge">presskit.html</code>, I dearly recommend to update your local installation to take advantage of the new thumbnail generation. A quick <code class="language-plaintext highlighter-rouge">presskit build</code> and you should be done. 🙏</p>
-
-  </div>
-
-  <footer class="entry__footer">
-    <div class="trilogy">
-      <div class="trilogy__pane trilogy__pane--left">
-        21 august. 2018
-      </div>
-      <div class="trilogy__pane">
-        <img src="/static/images/logo/logo_filled.png">
-      </div>
-      <div class="trilogy__pane trilogy__pane--right">
+            By Pixelnest Studio
         
-            By Matthieu Oger
-          
-      </div>
-    </div>
-  </footer>
-</article>
-
-
-  
-  
-  
-  
-  
-  
-
-  
-
-
-
-
-<article class="entry">
-  <header class="entry__header">
-    <h1 class="entry__title">
-      <a href="/2018/07/steredenn-physical-releases/">
-        Steredenn physical releases
-      </a>
-    </h1>
-
-    
-      <h2 class="entry__subtitle">
-        PS4 and Nintendo Switch
-      </h2>
-    
-  </header>
-
-  <aside class="entry__metadata">
-    <figure class="entry__author">
-  
-      <img alt="Matthieu Oger"
-           title="Matthieu Oger"
-           src="/static/images/team/moger.jpg">
-      <figcaption>
-        <a href="/about/#matthieu">Matthieu</a>
-      </figcaption>
-
-    
-</figure>
-
-
-    <footer class="entry__date">
-      30 jul. 2018
-    </footer>
-  </aside>
-
-  <div class="entry__content">
-    <p>It’s official: <strong>Steredenn: Binary Stars</strong> is getting a physical release on PS4 and Nintendo Switch!</p>
-
-<p><img src="/static/images/posts/steredenn-physical-releases/box.png" alt="Steredenn on PS4 box" /></p>
-
-<p>We are so excited by these announcements.</p>
-
-<p>Seeing the game on physical boxes is a dream comes true for us. 😍</p>
-
-<p>A warning though: both offers are limited in quantity. If you don’t grab a copy quickly, it’s over.</p>
-
-<h2 id="ps4">PS4</h2>
-
-<p><strong>The PS4 version is already available.</strong></p>
-
-  <a href="https://www.strictlylimitedgames.com/releases/steredenn-binary-stars/"
-     class="intent-button intent-button--small intent-button--services intent-button--spacer">
-    Buy it on
-    <strong>Strictly Limited Games</strong>
-  </a>
-
-<p>A first batch has already been sold out, so hurry up if you want to get a copy.</p>
-
-<h2 id="nintendo-switch">Nintendo Switch</h2>
-
-<p>The Nintendo Switch version will be coming later, so stay tuned. <a href="https://twitter.com/SuperRareGames/status/1019288123438583813">Find more on Super Rare Games.</a></p>
-
-<p><br /><br />Spread the word!</p>
-
-  </div>
-
-  <footer class="entry__footer">
-    <div class="trilogy">
-      <div class="trilogy__pane trilogy__pane--left">
-        30 july. 2018
-      </div>
-      <div class="trilogy__pane">
-        <img src="/static/images/logo/logo_filled.png">
-      </div>
-      <div class="trilogy__pane trilogy__pane--right">
-        
-            By Matthieu Oger
-          
       </div>
     </div>
   </footer>
@@ -513,9 +303,7 @@
 
   <section class="pager__next">
     
-      <a href="/journal/2/" class="pager__link">
-        <span>Next</span> →
-      </a>
+      End ◆
     
   </section>
 
@@ -524,34 +312,37 @@
 
   </div>
 
-  <footer class="page-footer">
+  <footer class="page-footer homepage-footer" style="">
+
+ 
+
+
   <div class="page-footer__item copyright">
-    <p>© Balborinho Studio</p>
-    <p>We craft <strong>movies</strong> and <strong>apps</strong></p>
+    <p>© 2026 Balborinho</p>
+    
   </div>
 
   <div class="page-footer__item social">
-    <a href="https://facebook.com/pixelneststudio/">
-      <img class="facebook"
-           src="/static/images/icons/footer-facebook.png"
-           alt="Facebook"
-           title="Facebook">
+    <a href="https://www.youtube.com/@Balborinho">
+      <img class="youtube"
+           src="/static/images/icons/footer-youtube.svg"
+           alt="YouTube"
+           title="YouTube">
     </a>
-    <a href="https://twitter.com/pixelnest/">
-      <img class="twitter"
-           src="/static/images/icons/footer-twitter.png"
-           alt="Twitter"
-           title="Twitter">
+    <a href="https://www.instagram.com/balborinho">
+      <img class="instagram"
+           src="/static/images/icons/footer-instagram.svg"
+           alt="Instagram"
+           title="Instagram">
     </a>
     <a href="#top">
-      <img class="pxn"
-           src="/static/images/icons/footer-pxn.png"
-           alt="Pixelnest Studio"
-           title="Pixelnest Studio">
+      <img class="bbr"
+           src="/static/images/icons/footer-bbr.svg"
+           alt="Balborinho"
+           title="Balborinho">
     </a>
   </div>
 </footer>
-
 </div>
 
   

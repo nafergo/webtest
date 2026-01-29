@@ -1,0 +1,34 @@
+---
+title: Projetos
+subtitle: Curtas e curtinhas com várias técnicas
+
+permalink: /projects/
+redirect_from: /work/
+---
+
+{% assign products = site.products | sort: 'date' | reverse %}
+
+<h1 class="block__title">{{ page.subtitle }}</h1>
+
+
+<section class="block">
+  <h1 class="block__title">In Production</h1>
+
+  {% for product in products %}
+    {% if product.state == "inproduction" %}
+        {% include components/product/item.html data=product %}
+    {% endif %}
+  {% endfor %}
+</section>
+
+
+<section class="block">
+  <h1 class="block__title">Finished</h1>
+
+  {% for product in products %}
+    {% if product.state == "finished" %}
+        {% include components/product/item.html data=product %}
+    {% endif %}
+  {% endfor %}
+</section>
+

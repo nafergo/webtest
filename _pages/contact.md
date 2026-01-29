@@ -1,21 +1,20 @@
 ---
-title: Contact
+title: Contactos
 subtitle: what else?
 
 mixed_data: true
-permalink: /contact/
+permalink: /contact1/
 ---
 
-<div data-block="danger">
-  DISCLAIMER: we are **not** looking for **freelancers**, **interns** or new **employees**. Sorry!
-</div>
+<h1 class="block__title">Attributions</h1>
 
-# Contact
+# teste
 
-You can contact us on:
+O correio eletrónico é a melhor forma de entrar em contacto. Envie um email para <strong>balborinho@gmail.com</strong> e prometemos que será lido por uma pessoa que responderá logo que possível ;)
 
-* [Mail](mailto:contact@pixelnest.io) (recommended!)
-* [Twitter](https://twitter.com/pixelnest/) 
-* [Facebook](https://facebook.com/pixelneststudio/)
-* Or subscribe to our [RSS feed](https://pixelnest.io/atom.xml)
+Entretanto, pode seguir-nos aqui:
+
+* [Instagram](https://twitter.com/pixelnest/) 
+* [YouTube](https://facebook.com/pixelneststudio/)
+
 
