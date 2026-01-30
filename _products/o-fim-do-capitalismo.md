@@ -2,19 +2,21 @@
 title: "O Fim do Capitalismo"
 titulo-en: "The End of the Capitalism"
 titulo-pt: "O Fim do Capitalismo"
-subtitle: "Marx explica os básicos"
+subtitle: "Uma fábula sobre o apetite sem limites do capitalismo."
 type: ['2026', 'Curta', "3'"]
+
+etapa: pré-produção
 
 assets: /static/images/products/o-fim-do-capitalismo/
 
 date: 2026-01-30
 
 
-project-type: ['Curta']
+project-type: Curta
 # TIPO Curta, Série, Curtinha
 # TYPE Short, Series, Very short
 
-genre: ['Ficção Científica', 'Distópico']
+genre: Ficção Científica, Distópico
 # GÉNERO	Ensaio, Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
 # GENRE	Essay, Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
 # TOM Crítica social, Político, Filosófico, Metafórico, Alegórico, Autobiográfico, Educativo, Humor negro, Irónico, Sarcástico, Contemplativo, Poético, Experimental, Abstrato, Minimalista, Sensível/Intimista, Emocional, Distópico, Utópico, Crítico, Satírico
@@ -27,8 +29,12 @@ techniques: 'Animação 2D'
 
 directed-by: Nelson Gonçalves
 written-by: Nelson Gonçalves
-based-on: 
-#original story by Li
+adapted-from: #Adaptado de - quando o filme se baseia numa obra existente
+based-on:  #Baseado
+inspired-by: por ideias e conceitos de Indira Solovieva, Superschupen Schupen, Ivana Todorovski, Natasa Vujkov, John Assael, Nelson Gonçalves, Luciano Muñoz Sessarego, Kate Flop. #Inspirado - quando o filme pegou em ideias, conceitos ou temas de alguém, mas não segue literalmente a obra.
+
+
+
 
 art-direction: Nelson Gonçalves
 three-d: 
@@ -44,23 +50,23 @@ production-company: Balborinho
 
 year: 2026
 runtime: 3'
-color: color
+color: Cor
 ratio: '16:9'
 sound: 
 
 country: Portugal
-language: pt
-subtitles: en
+language: 
+subtitles: 
 
 excerpt: Existe um conflito entre o impulso infinito do capitalismo para o crescimento contínuo e os limites finitos da Terra. Uma fábula sobre o apetite sem limites do capitalismo.
 
 state: inproduction
 
-links:
-  - name: Trailer
-    url: https://vimeo.com/799819211
-  - name: Vimeo
-    url: https://store.steampowered.com/app/2283410/Chtuloot/
+#links:
+#  - name: Trailer
+#    url: https://vimeo.com/799819211
+#  - name: Vimeo
+#    url: https://store.steampowered.com/app/2283410/Chtuloot/
 ---
 
 <h2 class="">Sinopse</h2>

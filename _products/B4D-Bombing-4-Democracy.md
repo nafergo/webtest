@@ -1,15 +1,17 @@
 ---
-title: "B4D Bombing 4 Democracy"
-titulo-en: "The End of the Capitalism"
-titulo-pt: "Nas margens"
-subtitle: "Marx explica os básicos"
+title: "B4D"
+titulo-en: "B4D"
+titulo-pt: "B4D"
+subtitle: " Bombing 4 Democracy"
 type: ['2026', 'Curta', "3'"]
+
+etapa: pré-produção
 
 assets: /static/images/products/b4d-bombing-4-democracy/
 
 date: 2026-01-30
 
-project-type: ['Curta']
+project-type: Curta
 # TIPO Curta, Série, Curtinha
 # TYPE Short, Series, Very short
 
@@ -25,9 +27,10 @@ techniques: 'Animação 2D digital (frame-a-frame),'
 
 
 directed-by: Nelson Gonçalves
-written-by: Nelson Gonçalves
-based-on: 
-#original story by Li
+written-by: Lília Basílio e Nelson Gonçalves
+adapted-from: #Adaptado de
+based-on: #Baseado
+inspired-by:  #Inspirado
 
 art-direction: Nelson Gonçalves
 three-d: 
@@ -43,23 +46,23 @@ production-company: Balborinho
 
 year: 2026
 runtime: 3'
-color: color
+color: Cor
 ratio: '16:9'
 sound: 
 
 country: Portugal
-language: pt
-subtitles: en
+language: en
+subtitles: pt
 
 excerpt: Espalhando liberdade, um alvo de cada vez. Uma visão irónica que procura denunciar a violência da “democratização à força” e questiona quem realmente ganha quando a democracia chega… com explosivos.
 
 state: inproduction
 
-links:
-  - name: Trailer
-    url: https://vimeo.com/799819211
-  - name: Vimeo
-    url: https://store.steampowered.com/app/2283410/Chtuloot/
+#links:
+#  - name: Trailer
+#    url: https://vimeo.com/799819211
+#  - name: Vimeo
+#    url: https://store.steampowered.com/app/2283410/Chtuloot/
 ---
 
 <h2 class="">Sinopse</h2>

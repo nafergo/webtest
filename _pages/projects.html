@@ -1,6 +1,6 @@
 ---
 title: Projetos
-subtitle: Curtas e curtinhas com várias técnicas
+subtitle: 
 
 permalink: /projects/
 redirect_from: /work/
@@ -8,11 +8,9 @@ redirect_from: /work/
 
 {% assign products = site.products | sort: 'date' | reverse %}
 
-<h1 class="block__title">{{ page.subtitle }}</h1>
-
 
 <section class="block">
-  <h1 class="block__title">In Production</h1>
+  <h1 class="block__title">Em produção</h1>
 
   {% for product in products %}
     {% if product.state == "inproduction" %}
@@ -23,7 +21,7 @@ redirect_from: /work/
 
 
 <section class="block">
-  <h1 class="block__title">Finished</h1>
+  <h1 class="block__title">Concluídos</h1>
 
   {% for product in products %}
     {% if product.state == "finished" %}

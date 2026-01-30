@@ -6,7 +6,7 @@
   <link href="https://pixelnest.io/atom.xml" rel="self"/>
   <link href="https://pixelnest.io/"/>
 
-  <updated>2026-01-29T21:38:44+00:00</updated>
+  <updated>2026-01-30T20:29:04+00:00</updated>
   <id>https://pixelnest.io/</id>
 
   <!-- authors -->
@@ -26,33 +26,79 @@
   <!-- posts -->
   
     <entry>
-      <title>Coming back</title>
-      <link href="https://pixelnest.io/2023/05/coming-back/" />
-      <updated>2023-05-13T00:00:00+01:00</updated>
-      <id>https://pixelnest.io/2023/05/coming-back/</id>
+      <title>Hello world!</title>
+      <link href="https://pixelnest.io/2026/01/hello-world/" />
+      <updated>2026-01-30T00:00:00+00:00</updated>
+      <id>https://pixelnest.io/2026/01/hello-world/</id>
       <content type="html">
-        &lt;p&gt;Hello folks,&lt;/p&gt;
+        &lt;p&gt;Olá mundo! É com muita alegria que escrevo este post para anunciar o início do &lt;strong&gt;Balborinho&lt;/strong&gt;. Depois de algumas tentativas e experiências anteriores, chegou a altura certa para criar o Balborinho. Aqui fica o ponto de situação no final do mês de janeiro de 2026.&lt;/p&gt;
 
-&lt;p&gt;I’m not sure anyone will ever read this post (probably Matthieu with an RSS reader 😁).&lt;/p&gt;
+&lt;h2 id=&quot;data-de-nascimento-do-balborinho&quot;&gt;Data de nascimento do Balborinho&lt;/h2&gt;
 
-&lt;p&gt;But still, it’s important to write it.&lt;/p&gt;
-
-&lt;p&gt;Pixelnest is coming back!&lt;/p&gt;
-
-&lt;p&gt;I (Damien) am getting 100% of the studio, thanks to Matthieu who will continue his own adventures.&lt;/p&gt;
-
-&lt;p&gt;I’ll be joined by my favorite 3D magician &lt;a href=&quot;https://skia.artstation.com/&quot;&gt;Eddy Margueron&lt;/a&gt; and together we’re working on… a new game!&lt;/p&gt;
-
-&lt;p&gt;In the arcade DNA of our previous games (Steredenn, Flipon) we’re revealing CTHULOOT: an arcade coop game  for PC and consoles.&lt;/p&gt;
-
-&lt;p&gt;There’ll be more announcements to come so be sure to:&lt;/p&gt;
+&lt;p&gt;O ano de 2026 começa com três marcos importantes:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Wishlist the &lt;a href=&quot;https://store.steampowered.com/app/2283410/Chtuloot/&quot;&gt;Steam page of the game&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Follow us on Twitter/X: &lt;a href=&quot;https://twitter.com/pixelnest&quot;&gt;@pixelnest&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/cthuloot&quot;&gt;@cthuloot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;registo do domínio;&lt;/li&gt;
+  &lt;li&gt;lançamento da segunda versão do site (sim, já houve um antes deste…);&lt;/li&gt;
+  &lt;li&gt;tradução para português da interface do Ramses&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Stay tuned! 💎🐙&lt;/p&gt;
+&lt;p&gt;Os dois primeiros assinalam a fundação oficial do Balborinho e &lt;strong&gt;25 de janeiro&lt;/strong&gt;, data do registo do domínio, é o mais próximo que temos de uma data oficial :)&lt;/p&gt;
+
+&lt;p&gt;Entretanto, não sei quando e com que regularidade serão atualizados mas foram criados perfis aqui:
+&lt;a href=&quot;https://www.youtube.com/@Balborinho&quot;&gt;YouTube&lt;/a&gt;, &lt;a href=&quot;https://vimeo.com/balborinho&quot;&gt;Vimeo&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/balborinho&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://mastodon.social/@balborinho&quot;&gt;Mastodon&lt;/a&gt; e &lt;a href=&quot;https://github.com/balborinho&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;contributos-para-o-ramses&quot;&gt;Contributos para o Ramses&lt;/h2&gt;
+
+&lt;p&gt;O &lt;a href=&quot;https://rxlaboratorio.org/rx-tool/ramses/&quot;&gt;Ramses&lt;/a&gt; é um sistema de gestão de produção de animação desenvolvido pelo &lt;a href=&quot;https://rxlaboratorio.org/&quot;&gt;RxLaboratorio&lt;/a&gt;. É um Software Livre que permite organizar e acompanhar as diferentes etapas (storyboard, rigging, animação, render, etc.) de uma produção de animação.&lt;/p&gt;
+
+&lt;p&gt;Nos últimos anos têm surgido várias soluções de Software Livre e Open Source interessantes para a gestão de recursos (&lt;em&gt;asset management&lt;/em&gt;) e de produção (&lt;em&gt;production management&lt;/em&gt;) na área da animação. Para quem anda à procura de ferramentas deste tipo, deixo aqui uma pequena lista de opções a explorar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getavalon.github.io/2.0/&quot;&gt;Avalon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://clustta.com/&quot;&gt;Clustta&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://damas-software.org/&quot;&gt;Damas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cg-wire.com/kitsu&quot;&gt;Kitsu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prism-pipeline.com/&quot;&gt;Prism&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rxlaboratorio.org/rx-tool/ramses/&quot;&gt;Ramses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/eoyilmaz/stalker&quot;&gt;Stalker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.southpawtech.com/tactic-open-source&quot;&gt;Tactic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tik-manager.com/&quot;&gt;TIK Manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ainda não experimentei todas, mas já tive oportunidade de explorar algumas. Entre elas, o &lt;a href=&quot;https://rxlaboratorio.org/rx-tool/ramses/&quot;&gt;Ramses&lt;/a&gt; destaca-se por combinar várias vantagens que vou tentar sintetizar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;existe para Linux/Mac/Win;&lt;/li&gt;
+  &lt;li&gt;pode ser utilizado offline (não necessita de Internet): todos os recursos ficam no computador local;&lt;/li&gt;
+  &lt;li&gt;pode ser utilizado online (com servidor): sincroniza entre vários computadores através da Internet;&lt;/li&gt;
+  &lt;li&gt;suspeito (porque ainda não experimentei) que possa ser utilizado facilmente numa rede local ou através de serviços &lt;em&gt;cloud&lt;/em&gt; (tipo Nextcloud, ownCloud, etc.);&lt;/li&gt;
+  &lt;li&gt;é fácil de instalar e usar;&lt;/li&gt;
+  &lt;li&gt;permite gerir os recursos (&lt;em&gt;assets&lt;/em&gt;), incluindo várias versões;&lt;/li&gt;
+  &lt;li&gt;permite gerir pipelines (pode ligar com as aplicações que estiverem instaladas no computador);&lt;/li&gt;
+  &lt;li&gt;permite gerir projetos e tarefas;&lt;/li&gt;
+  &lt;li&gt;permite múltiplos utilizadores;&lt;/li&gt;
+  &lt;li&gt;é muito versátil: pode ser utilizado para gerir projetos individuais e de equipas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como nenhuma outra solução apresenta todas estas vantagens, decidi começar a usar o &lt;a href=&quot;https://rxlaboratorio.org/rx-tool/ramses/&quot;&gt;Ramses&lt;/a&gt; para gerir as nossas produções. E foi assim que decidi contribuir para o projeto com a tradução da interface para português.&lt;/p&gt;
+
+&lt;p&gt;Está para breve o lançamento de uma nova versão que traz várias melhorias e já inclui a interface em português. Quando isso acontecer, esta plataforma será uma das poucas, se não mesmo a única, a ter uma interface em português. Espero que possa ser útil a alguém ;) E se tiverem sugestões de correções, enviem para nafergo@gmail.com&lt;/p&gt;
+
+&lt;p&gt;Ainda neste tópico, uma referência para o &lt;a href=&quot;https://rxlaboratorio.org/&quot;&gt;RxLaboratorio&lt;/a&gt;, uma associação internacional sem fins lucrativos fundada em França com o objetivo de partilhar e promover Software Livre e Aberto, recursos e ideias para a produção de cinema. Traduzi do site deles esta pérola: “Através do software livre, da partilha, do ensino e da ajuda mútua, mostramos que é possível construir outro mundo em conjunto, sem mercantilismo nem capitalismo, onde a emancipação e a liberdade de todas as pessoas nascem da igualdade, da independência financeira e da solidariedade, num mundo que respeita a natureza.”&lt;/p&gt;
+
+&lt;h2 id=&quot;e-filmes&quot;&gt;E filmes?&lt;/h2&gt;
+
+&lt;p&gt;Ah! finalmente cheguei aqui :) Síntese rápida:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Picada&lt;/strong&gt; ainda está no ínício da escrita e arte.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nas Margens&lt;/strong&gt; tem para muito breve o episódio 1!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alerta Vermelho!&lt;/strong&gt; avança a duas velocidades: por um lado, avança o desenho 2D e rigs; por outro, discute-se o conteúdo e ensaia-se a escrita.&lt;/li&gt;
+  &lt;li&gt;Restantes projetos sem novidades por agora.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Até já!&lt;/p&gt;
 
       </content>
 
@@ -106,7 +152,7 @@
       <!-- author -->
       <author>
         
-        <name>Pixelnest Studio</name>
+        <name>lília</name>
         
 
         

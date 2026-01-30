@@ -9,6 +9,8 @@ url: https://nafergo.github.io/webtest
 repository: "nafergo/webtest"
 base_url: /webtest
 
+excerpt_separator: <!--more-->
+
 # -------------------------------------------------------
 # Globals.
 # -------------------------------------------------------

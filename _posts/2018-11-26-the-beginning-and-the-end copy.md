@@ -1,8 +1,9 @@
 ---
 title: The Beginning And The End
 subtitle: Branching Paths
+author: lília
 ---
-After 5 years of Pixelnest Studio, we — [Matthieu](https://matthieuoger.com/) & [Damien](https://dmayance.com/) — are moving onto new adventures, starting January 2019.
+After 5 years of Pixelnest Studio, we — [Matthieu](https://matthieuoger.com/) & [Damien](https://dmayance.com/) — are moving onto new adventures, starting January 2019. 
 
 **This is not a breakup!** Everything is great but after doing the same job for the past 5 years, we want to explore new and different topics, jobs and positions. Steredenn was a **huge critical and commercial success** (for us at least) and we’re so grateful that we’ve been able to this for the last years.
 

@@ -1,19 +1,23 @@
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 
+
+html, body { height: 100%;}
+
+body > footer {
+  position: sticky;
+  top: 100vh;
+}
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-      height: 100%;
 }
-
 
 body {
     margin: 0;
-      display: grid;
-      grid-template-rows: 1fr auto; /* Content + Footer */
-      min-height: 100vh;
+   
 }
 
 article,
@@ -525,7 +529,6 @@ a:hover {
 .product-hero__content a,
 .product-hero__links a,
 .product-item__content a,
-.product-item__link,
 .promotion a,
 .tutorial-header a {
     color: #ff1414;
@@ -1543,6 +1546,15 @@ html {
     font-size: 3.2rem
 }
 
+.member__title_name{
+    font-family: Bebas Neue, Arial Narrow, Arial, sans-serif;
+    line-height: normal;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 8px;
+    font-size: 2rem
+
+}
+
 .member__social {
     font-size: 2rem
 }
@@ -2061,7 +2073,8 @@ html {
 }
 
 .product-item__title a:hover {
-    color: #ff1414
+    color: #ff1414;
+    padding-left: 5px;
 }
 
 .product-item__type {
@@ -2070,7 +2083,7 @@ html {
     margin-left: 1px;
     padding: .25rem .5rem .1rem;
     color: #fff;
-    background: #ffae15;
+    background: #9f9f9f;
     border-radius: 2px;
     font-size: 1.5rem;
     font-weight: 700
@@ -2304,12 +2317,12 @@ html {
     -webkit-font-smoothing: antialiased;
     display: block;
     padding-right: 20px;
-    background-image: url("/static/images/icons/product-more.png");
+    background-image: url("/static/images/icons/product-more.svg");
     background-repeat: no-repeat;
     background-position: right 2px;
     background-size: 20px;
     font-size: 2.4rem;
-    text-align: right
+    text-align: right;
 }
 
 @media (max-width:450px) {
@@ -2736,15 +2749,16 @@ html {
 .page-footer__item.social .youtube {
     margin-right: 16px
 }
-img.youtube:hover {
-  filter: invert(18%) sepia(81%) saturate(7346%) hue-rotate(1deg) brightness(97%) contrast(119%);
-}
+
+img.youtube:hover {filter: brightness(0) saturate(100%) invert(19%) sepia(98%) saturate(6887%) hue-rotate(358deg) brightness(110%) contrast(117%);}
+img.vimeo:hover {filter: brightness(0) saturate(100%) invert(82%) sepia(36%) saturate(6580%) hue-rotate(155deg) brightness(104%) contrast(101%);}
+img.instagram:hover {filter: brightness(0) saturate(100%) invert(27%) sepia(38%) saturate(3563%) hue-rotate(300deg) brightness(92%) contrast(85%);}
+img.mastodon:hover {filter: brightness(0) saturate(100%) invert(15%) sepia(90%) saturate(4438%) hue-rotate(252deg) brightness(87%) contrast(81%);}
+img.github:hover {filter: brightness(0) saturate(100%) invert(13%) sepia(10%) saturate(585%) hue-rotate(87deg) brightness(92%) contrast(91%);}
+
 
 .page-footer__item.social .instagram {
     margin-right: 32px
-}
-img.instagram:hover {
-filter: invert(22%) sepia(91%) saturate(1865%) hue-rotate(261deg) brightness(91%) contrast(85%);
 }
 
 .page-footer__item.social .bbr {
@@ -2892,13 +2906,19 @@ filter: invert(22%) sepia(91%) saturate(1865%) hue-rotate(261deg) brightness(91%
     background-image: url("/static/images/products/the-factory/card.jpg");
 }
 
-ul.credits-list{font-size: 1.5rem; margin-bottom: 2em;}
+.credits-list{font-size: 1.5rem; margin-bottom: 2em;}
 
-ul.credits-sound-music li{}
+.credits-sound-music li{}
 
-.credits-li-label{ text-transform: uppercase; margin-right: 1em;}
+.credits-li-label{ text-transform: uppercase; margin-right: 1em; margin-bottom: 1em;}
 
 .product-item_type_div {text-align: center; width: 100%; margin-top: 1em;}
+
+.credits-list td {vertical-align: top;}
+
+.separatorspace {padding-bottom: 1em;}
+
+.credits-li-content {padding-left: 2em;;}
 
 
 h2.credits-title {
@@ -2921,6 +2941,8 @@ font-style: normal;
   
 .member-slot img {border-radius: 1000px;}
 
+img.circle {border-radius: 1000px;}
+
 .member-slot li{
     margin-bottom: 2px;
     font-size: 2rem;
@@ -2930,3 +2952,26 @@ font-style: normal;
 
  .contact-link {  list-style: none;}
  .contact-link li {width: 2em; display: inline-block; margin-right: 1em;}
+
+ .blog_list {margin-bottom: 2em;}
+ .blog_list_author {  text-align: center; vertical-align: top;}
+
+ .blog_list_content {font-size: 1.8rem !important; padding-left: 2em; vertical-align: top;}
+ .blog_list_content > p {font-size: 1.8rem !important;}
+
+.blog_list_date {font-family: Bebas Neue, Arial Narrow, Arial, sans-serif;
+  line-height: normal;
+  text-align: center;
+  color: #a3a3a3;
+  font-weight: 400;
+  font-size: 1.8rem;
+}
+
+.navbar__item a{transition: all .25s ease-out;}
+
+.product-item__link {color: #070707 !important; transition: all .25s ease-out;}
+.product-item__link:hover { filter: brightness(0) saturate(100%) invert(23%) sepia(82%) saturate(3757%) hue-rotate(348deg) brightness(94%) contrast(116%) !important;}
+
+.entry__title a, .blog__link {color: #070707 !important; transition: all .25s ease-out;}
+
+.entry__title a:hover, .blog__link:hover {color: #ff1414 !important; transition: all .25s ease-out; background: #fff0;}

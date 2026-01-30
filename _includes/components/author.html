@@ -1,35 +1,16 @@
 <figure class="entry__author">
-  {% case author_id %}
-    {% when 'dm' %}
-      <img alt="Damien Mayance"
-           title="Damien Mayance"
-           src="http://www.gravatar.com/avatar/545f7c7f0ed11d6ef21722a7e6c47acf?s=200">
-      <figcaption>
-        <a href="/about/#damien">Damien</a>
-      </figcaption>
-
-    {% when 'mo' %}
-      <img alt="Matthieu Oger"
-           title="Matthieu Oger"
-           src="/static/images/team/moger.jpg">
-      <figcaption>
-        <a href="/about/#matthieu">Matthieu</a>
-      </figcaption>
-
-    {% when 'em' %}
-      <img alt="Eddy Margueron"
-           title="Eddy Margueron"
-           src="/static/images/team/eddy">
-      <figcaption>
-        <a href="/about/#eddy">Eddy</a>
-      </figcaption>
-
-    {% else %}
-      <img alt="Pixelnest Studio"
-           title="Pixelnest Studio"
-           src="/static/images/team/pixelnest.png">
-      <figcaption>
-        <a href="/about/">Pixelnest</a>
-      </figcaption>
-  {% endcase %}
+          {% if entry_author %}
+            {% if entry_author == "nafergo" %}
+              <img src="http://www.gravatar.com/avatar/c1ff8670d513aec771affeb05e96f665?s=200" class="circle" width="100px" height="auto" alt="nafergo">
+                {% elsif entry_author == "lília" %}
+                  <img src="/static/images/team/lilia.png" width="100px" height="auto" alt="Lilia" class="circle">
+                    {% else %}
+                      <img src="/static/images/team/outro.png" alt="{{ post.author }}" class="circle">
+            {% endif %}
+              {% else %}
+                <img src="/static/images/team/balborinho.png" alt="Balborinho" class="circle">
+          {% endif %}
+          <br>
+          <h2 class="entry__subtitle">{{ entry_author }}</h2>
+          <br>
 </figure>

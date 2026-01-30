@@ -2,15 +2,17 @@
 title: "Fim da picada"
 titulo-en: ""
 titulo-pt: "Fim da picada"
-subtitle: "Marx explica os básicos"
+subtitle: "Guerra Colonial"
 type: ['2026', 'Curta', "5'"]
+
+etapa: pré-produção
 
 assets: /static/images/products/picada/
 
 date: 2026-01-30
 
 
-project-type: ['Curta']
+project-type: Curta
 # TIPO Curta, Série, Curtinha
 # TYPE Short, Series, Very short
 
@@ -27,8 +29,9 @@ techniques: 'Animação 3D'
 
 directed-by: Nelson Gonçalves
 written-by: Nelson Gonçalves
-based-on: história real
-#original story by Li
+adapted-from: #Adaptado de
+based-on: #Baseado
+inspired-by:  por histórias e factos reais #Inspirado
 
 art-direction: Nelson Gonçalves
 three-d: 
@@ -44,7 +47,7 @@ production-company: Balborinho
 
 year: 2026
 runtime: 5m
-color: color
+color: Cor
 ratio: '16:9'
 sound: 
 
@@ -56,11 +59,11 @@ excerpt: Um ensaio visual sobre o papel da escola como instrumento ideológico, 
 
 state: inproduction
 
-links:
-  - name: Trailer
-    url: https://vimeo.com/799819211
-  - name: Vimeo
-    url: https://store.steampowered.com/app/2283410/Chtuloot/
+#links:
+#  - name: Trailer
+#    url: https://vimeo.com/799819211
+#  - name: Vimeo
+#    url: https://store.steampowered.com/app/2283410/Chtuloot/
 ---
 
 <h2 class="">Sinopse</h2>
