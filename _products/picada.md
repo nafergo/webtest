@@ -1,25 +1,57 @@
 ---
-title: "Fim da Picada"
-subtitle: "An Endless Chaotic Space Shooter"
-type: [game]
-assets: /static/images/products/picada/
-date: 2015-10-01
+title: "Fim da picada"
+titulo-en: "The Factory"
+titulo-pt: "Fim da picada"
+subtitle: "Marx explica os básicos"
+type: ['2026', 'short', "5'"]
 
-excerpt: "**STEREDENN** is a frenetic and chaotic space shooter, carved in big beautiful pixels."
+assets: /static/images/products/picada/
+
+date: 2026-01-30
+
+project-type: ['short']
+genre: social commentary
+
+techniques: '3D anim'
+
+
+directed-by: Nelson Gonçalves
+written-by: Nelson Gonçalves
+based-on: história real
+#original story by Li
+
+art-direction: Nelson Gonçalves
+three-d: 
+two-d: 
+animation-by: Nelson Gonçalves
+
+music-by: 
+sound-design-by: 
+
+produced-by: Nelson Gonçalves
+production-company: Balborinho
+
+
+year: 2026
+runtime: 5m
+color: color
+ratio: '16:9'
+sound: 
+
+country: Portugal
+language: pt
+subtitles: en
+
+excerpt: Um ensaio visual sobre o papel da escola como instrumento ideológico, transformando diversidade em conformidade, moldando as pessoas para se ajustarem à estrutura social existente.
+
+state: inproduction
 
 links:
-  - name: Official Website
-    url: http://steredenn.pixelnest.io
-  - name: Watch trailer
-    url: https://youtu.be/EtXajayBLzw
-  - name: Press Page
-    url: /presskit/steredenn/
+  - name: Trailer
+    url: https://vimeo.com/799819211
+  - name: Vimeo
+    url: https://store.steampowered.com/app/2283410/Chtuloot/
 ---
 
-**STEREDENN** is a _roguelike-shmup_ video game for _Steam_, _Xbox One_, _PlayStation 4_ and _iOS_.
-
-**STEREDENN** is a _frenetic and chaotic space shooter_, carved in _big beautiful pixels_, with _insane boss battles_. Embark in your ship and engage the fight against dreadful space pirates in a never-ending combat for your survival.
-
-[**STEREDENN** was updated in 2018 with its massive expansion **STEREDENN: BINARY STARS**](/products/steredenn-binary-stars/).
-
-_The game is fast, addictive, hard and action-packed._
+<h2 class="">Sinopse</h2>
+Um ensaio visual sobre o papel da escola como instrumento ideológico, transformando diversidade em conformidade, moldando as pessoas para se ajustarem à estrutura social existente.
