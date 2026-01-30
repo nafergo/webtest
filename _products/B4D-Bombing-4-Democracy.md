@@ -1,32 +1,60 @@
 ---
 title: "B4D Bombing 4 Democracy"
-subtitle: "The Ultimate Steredenn Edition"
-type: [movie]
+titulo-en: "The End of the Capitalism"
+titulo-pt: "Nas margens"
+subtitle: "Marx explica os básicos"
+type: ['2026', 'series', "1'"]
+
 assets: /static/images/products/b4d-bombing-4-democracy/
-date: 2018-03-08
 
-excerpt: "um excerto."
+date: 2026-01-30
+
+project-type: ['series']
+genre: social commentary
+
+techniques: '2D anim'
 
 
-state: finished
+directed-by: Nelson Gonçalves
+written-by: Nelson Gonçalves
+based-on: 
+#original story by Li
+
+art-direction: Nelson Gonçalves
+three-d: 
+two-d: 
+animation-by: Nelson Gonçalves
+
+music-by: 
+sound-design-by: 
+
+produced-by: Nelson Gonçalves
+production-company: Balborinho
 
 
-# inproduction, finished
+year: 2026
+runtime: 3'
+color: color
+ratio: '16:9'
+sound: 
 
+country: Portugal
+language: pt
+subtitles: en
+
+excerpt: Espalhando liberdade, um alvo de cada vez. Uma visão irónica que procura denunciar a violência da “democratização à força” e questiona quem realmente ganha quando a democracia chega… com explosivos.
+
+state: inproduction
 
 links:
-  - name: Official Website
-    url: http://steredenn.pixelnest.io/
-  - name: Watch trailer
-    url: https://youtu.be/iBG9yqcXB-4
-  - name: Press Page
-    url: /presskit/steredenn-binary-stars/
+  - name: Trailer
+    url: https://vimeo.com/799819211
+  - name: Vimeo
+    url: https://store.steampowered.com/app/2283410/Chtuloot/
 ---
 
-**STEREDENN: BINARY&nbsp;STARS** is the hugely improved and massively expanded version of the [original **STEREDENN**](/products/steredenn/).
+<h2 class="">Sinopse</h2>
+Espalhando liberdade, um alvo de cada vez. Uma visão irónica que procura denunciar a violência da “democratização à força” e questiona quem realmente ganha quando a democracia chega… com explosivos.
 
-**STEREDENN: BINARY&nbsp;STARS** is an award-winning mashup of a classic _shmup_ and a _rogue-like_, carved in big beautiful pixels, with insane boss battles. Fly solo or co-op with a friend, fighting off the worst scourges of space in a never-ending struggle for survival.
 
-More weapons, more upgrades, more polish, more waves, a new balance, a new scoring. Play with _5 different ships_, each with its own playstyle and special ability. Re-discover the game through the brand _new co-op mode_ and _the boss rush_. This expansion is the ultimate **STEREDENN** experience!
 
-**STEREDENN: BINARY&nbsp;STARS** is available on _Steam_, _Nintendo Switch_, _Xbox One_, _PlayStation 4_ and _iOS_.
