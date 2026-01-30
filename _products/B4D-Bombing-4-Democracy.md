@@ -10,9 +10,18 @@ assets: /static/images/products/b4d-bombing-4-democracy/
 date: 2026-01-30
 
 project-type: ['series']
-genre: social commentary
+# TIPO Curta, Série, Curtinha
+# TYPE Short, Series, Very short
 
-techniques: '2D anim'
+genre: social commentary
+# GÉNERO	Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
+# GENRE	Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
+# TOM Crítica social, Político, Filosófico, Metafórico, Alegórico, Autobiográfico, Educativo, Humor negro, Irónico, Sarcástico, Contemplativo, Poético, Experimental, Abstrato, Minimalista, Sensível/Intimista, Emocional, Distópico, Utópico, Crítico, Satírico
+# TONE	Social Commentary, Political, Philosophical, Metaphorical, Allegorical, Autobiographical, Educational, Dark Humor, Ironic, Sarcastic, Contemplative, Poetic, Experimental, Abstract, Minimalist, Intimate, Emotional, Dystopian, Utopian, Critical, Satirical
+
+techniques: 'anima2D anim'
+# TÉCNICAS Animação 3D, Animação 2D,	Animação 2D digital (frame-a-frame),	Rotoscopia, Animação cut-out digital, Stop-motion
+# TECHNIQUES 3D animation,	2D animation, 2D digital animation (frame-by-frame), Rotoscoping, Digital cut-out animation, Stop-motion
 
 
 directed-by: Nelson Gonçalves
