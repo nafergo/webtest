@@ -15,8 +15,8 @@ project-type: ['Série']
 # TYPE Short, Series, Very short
 
 genre: Experimental
-# GÉNERO	Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
-# GENRE	Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
+# GÉNERO	Ensaio, Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
+# GENRE	Essay, Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
 # TOM Crítica social, Político, Filosófico, Metafórico, Alegórico, Autobiográfico, Educativo, Humor negro, Irónico, Sarcástico, Contemplativo, Poético, Experimental, Abstrato, Minimalista, Sensível/Intimista, Emocional, Distópico, Utópico, Crítico, Satírico
 # TONE	Social Commentary, Political, Philosophical, Metaphorical, Allegorical, Autobiographical, Educational, Dark Humor, Ironic, Sarcastic, Contemplative, Poetic, Experimental, Abstract, Minimalist, Intimate, Emotional, Dystopian, Utopian, Critical, Satirical
 
