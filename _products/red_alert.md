@@ -1,52 +1,50 @@
 ---
-title: "Red Alert!"
-titulo-en: "tit em ing"
-titulo-pt: "tit em pt"
-subtitle: "Arcade coop game"
-type: ['2026', 'short film', "5'"]
+title: "Alerta vermelho!"
+titulo-en: "Red alert!"
+titulo-pt: "Alerta vermelho!"
+subtitle: "Marx explica os básicos"
+type: ['2026', 'series', "1'"]
 
 assets: /static/images/products/red_alert/
 
-date: 2023-05-13
+date: 2026-01-30
 
-project-type: ['short film']
+project-type: ['series']
 genre: social commentary
+
 techniques: '2D anim'
 
 
 directed-by: eu
-written-by: nós
-based-on: original story by Li
+written-by: Lília Basílio e Nelson Gonçalves
+based-on: 
+#original story by Li
 
-art-direction: eu
-three-d: nenhum
-two-d: nenhum
-animation-by: eu
+art-direction: Nelson Gonçalves
+three-d: 
+two-d: 
+animation-by: Nelson Gonçalves
 
-music-by: nafergo
-sound-design-by: Nelson Gonçalves
+music-by: 
+sound-design-by: 
 
-produced-by: eu
-production-company: balbo
+produced-by: Nelson Gonçalves
+production-company: Balborinho
 
 
 year: 2026
-runtime: 11m
+runtime: 1m
 color: color
 ratio: '16:9'
-sound: som
+sound: 
 
-country: pot
+country: Portugal
 language: pt
 subtitles: en
 
-
-excerpt: "**CTHULOOT** is a coop arcade game for up to 4 players." 
+excerpt: Revolução e luta de classes para todos e em doses rápidas. Série de curtas vinhetas animadas que explicam conceitos marxistas com humor.
 
 state: inproduction
-
-
-
 
 links:
   - name: Trailer
@@ -55,11 +53,8 @@ links:
     url: https://store.steampowered.com/app/2283410/Chtuloot/
 ---
 
-<h2 class="">Synopsis</h2>
-**CTHULOOT** Play as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in o Play as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in oPlay as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in oPlay as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in o Play as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in o
-
-Play as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in oPlay as looters in search of mythical relics around the world, but beware of the traps and other dangers that await in the shadows… and in o
-
+<h2 class="">Sinopse</h2>
+Revolução e luta de classes para todos e em doses rápidas. Série de curtas vinhetas animadas que explicam conceitos marxistas com humor.
 
 
 
