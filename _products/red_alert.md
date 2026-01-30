@@ -3,18 +3,18 @@ title: "Alerta vermelho!"
 titulo-en: "Red alert!"
 titulo-pt: "Alerta vermelho!"
 subtitle: "Marx explica os básicos"
-type: ['2026', 'series', "1'"]
+type: ['2026', 'Série', "2'"]
 
 assets: /static/images/products/red_alert/
 
 date: 2026-01-30
 
 
-project-type: ['series']
+project-type: ['Série']
 # TIPO Curta, Série, Curtinha
 # TYPE Short, Series, Very short
 
-genre: social commentary
+genre: ['Comédia', 'Político']
 # GÉNERO	Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
 # GENRE	Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
 # TOM Crítica social, Político, Filosófico, Metafórico, Alegórico, Autobiográfico, Educativo, Humor negro, Irónico, Sarcástico, Contemplativo, Poético, Experimental, Abstrato, Minimalista, Sensível/Intimista, Emocional, Distópico, Utópico, Crítico, Satírico
