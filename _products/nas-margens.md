@@ -14,7 +14,7 @@ project-type: ['Série']
 # TIPO Curta, Série, Curtinha
 # TYPE Short, Series, Very short
 
-genre: Experimental
+genre: ['Experimental', 'Vários']
 # GÉNERO	Ensaio, Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
 # GENRE	Essay, Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
 # TOM Crítica social, Político, Filosófico, Metafórico, Alegórico, Autobiográfico, Educativo, Humor negro, Irónico, Sarcástico, Contemplativo, Poético, Experimental, Abstrato, Minimalista, Sensível/Intimista, Emocional, Distópico, Utópico, Crítico, Satírico
