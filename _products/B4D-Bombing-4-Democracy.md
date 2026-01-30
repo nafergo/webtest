@@ -3,23 +3,23 @@ title: "B4D Bombing 4 Democracy"
 titulo-en: "The End of the Capitalism"
 titulo-pt: "Nas margens"
 subtitle: "Marx explica os básicos"
-type: ['2026', 'series', "1'"]
+type: ['2026', 'Curta', "3'"]
 
 assets: /static/images/products/b4d-bombing-4-democracy/
 
 date: 2026-01-30
 
-project-type: ['series']
+project-type: ['Curta']
 # TIPO Curta, Série, Curtinha
 # TYPE Short, Series, Very short
 
-genre: social commentary
+genre: Drama, Político
 # GÉNERO	Comédia, Drama, Tragédia, Fantasia, Ficção Científica, Terror/Horror, Suspense, Aventura, Romance, Mistério, Fábula, Satírico/Sátira, Experimental, Surreal/Absurdo, Poético, Psicológico, Infantil, Família, Musical, Noir, Documental (animado)
 # GENRE	Comedy, Drama, Tragedy, Fantasy, Science Fiction (Sci-Fi), Horror, Thriller, Adventure, Romance, Mystery, Fable, Satire, Experimental, Surreal/Absurd, Poetic, Psychological, Children’s, Family, Musical, Noir, Animated Documentary
 # TOM Crítica social, Político, Filosófico, Metafórico, Alegórico, Autobiográfico, Educativo, Humor negro, Irónico, Sarcástico, Contemplativo, Poético, Experimental, Abstrato, Minimalista, Sensível/Intimista, Emocional, Distópico, Utópico, Crítico, Satírico
 # TONE	Social Commentary, Political, Philosophical, Metaphorical, Allegorical, Autobiographical, Educational, Dark Humor, Ironic, Sarcastic, Contemplative, Poetic, Experimental, Abstract, Minimalist, Intimate, Emotional, Dystopian, Utopian, Critical, Satirical
 
-techniques: 'anima2D anim'
+techniques: 'Animação 2D digital (frame-a-frame),'
 # TÉCNICAS Animação 3D, Animação 2D,	Animação 2D digital (frame-a-frame),	Rotoscopia, Animação cut-out digital, Stop-motion
 # TECHNIQUES 3D animation,	2D animation, 2D digital animation (frame-by-frame), Rotoscoping, Digital cut-out animation, Stop-motion
 
