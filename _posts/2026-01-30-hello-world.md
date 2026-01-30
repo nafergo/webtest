@@ -1,12 +1,15 @@
 ---
-title: Hello world!
-subtitle: Onde se regista o início oficial do Balborinho
+title: Hello world! em janeiro de 2026
+subtitle: O início oficial do Balborinho, Ramses e notícias de filmes
 author: nafergo
-
+excerpt: 
 
 
 ---
-Olá mundo! É com muita alegria que escrevo este post para anunciar o início do **Balborinho**. Depois de algumas tentativas e experiências anteriores, chegou a altura certa para criar o Balborinho. Aqui fica o ponto de situação no final do mês de janeiro de 2026.
+Olá mundo! É com muita alegria que escrevo este post para anunciar o início do **Balborinho**. Depois de algumas tentativas e experiências anteriores, chegou a altura certa para criar o Balborinho. 
+
+Aqui fica o ponto de situação no final do mês de janeiro de 2026.
+<!--more-->
 
 
 ## Data de nascimento do Balborinho
@@ -16,6 +19,7 @@ O ano de 2026 começa com três marcos importantes:
 * registo do domínio;
 * lançamento da segunda versão do site (sim, já houve um antes deste...);
 * tradução para português da interface do Ramses
+
 
 Os dois primeiros assinalam a fundação oficial do Balborinho e **25 de janeiro**, data do registo do domínio, é o mais próximo que temos de uma data oficial :)
 

@@ -10,7 +10,7 @@ repository: "nafergo/webtest"
 base_url: /webtest
 
 excerpt_separator: <!--more-->
-
+locale: pt_PT
 # -------------------------------------------------------
 # Globals.
 # -------------------------------------------------------

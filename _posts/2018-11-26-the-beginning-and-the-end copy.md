@@ -2,6 +2,7 @@
 title: The Beginning And The End
 subtitle: Branching Paths
 author: lília
+published: false
 ---
 After 5 years of Pixelnest Studio, we — [Matthieu](https://matthieuoger.com/) & [Damien](https://dmayance.com/) — are moving onto new adventures, starting January 2019. 
 

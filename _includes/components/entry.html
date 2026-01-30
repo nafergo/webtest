@@ -35,7 +35,15 @@
     {% include components/author.html %}
 
     <footer class="entry__date">
-      {{ entry_date | date: "%d %b. %Y" | downcase }}
+
+{% assign meses = "jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez" | split: "," %}
+
+{% assign dia = entry_date | date: "%-d" %}
+{% assign mes_index = entry_date | date: "%m" | plus: 0 | minus: 1 %}
+{% assign ano = entry_date | date: "%Y" %}
+
+{{ dia }} de {{ meses[mes_index] }} de {{ ano }}      
+
     </footer>
   </aside>
 
@@ -44,22 +52,23 @@
   </div>
 
   <footer class="entry__footer">
-    <div class="trilogy">
+<div class="trilogy">
       <div class="trilogy__pane trilogy__pane--left">
-        {{ entry_date | date: "%-d %B. %Y" | downcase }}
+
+{% assign meses = "janeiro,fevereiro,março,abril,maio,junho,julho,agosto,setembro,outubro,novembro,dezembro" | split: "," %}
+
+{% assign dia = entry_date | date: "%-d" %}
+{% assign mes_index = entry_date | date: "%m" | plus: 0 | minus: 1 %}
+{% assign ano = entry_date | date: "%Y" %}
+
+{{ dia }} de {{ meses[mes_index] }} de {{ ano }}
+
       </div>
       <div class="trilogy__pane">
         <img src="/static/images/logo/logo_filled.png">
       </div>
       <div class="trilogy__pane trilogy__pane--right">
-        {% case author_id %}
-          {% when 'dm' %}
-            By Damien Mayance
-          {% when 'mo' %}
-            By Matthieu Oger
-          {% else %}
-            By Pixelnest Studio
-        {% endcase %}
+        Balborinho
       </div>
     </div>
   </footer>

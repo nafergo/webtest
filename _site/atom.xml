@@ -6,7 +6,7 @@
   <link href="https://pixelnest.io/atom.xml" rel="self"/>
   <link href="https://pixelnest.io/"/>
 
-  <updated>2026-01-30T20:29:04+00:00</updated>
+  <updated>2026-01-30T21:21:14+00:00</updated>
   <id>https://pixelnest.io/</id>
 
   <!-- authors -->
@@ -26,12 +26,15 @@
   <!-- posts -->
   
     <entry>
-      <title>Hello world!</title>
+      <title>Hello world! em janeiro de 2026</title>
       <link href="https://pixelnest.io/2026/01/hello-world/" />
       <updated>2026-01-30T00:00:00+00:00</updated>
       <id>https://pixelnest.io/2026/01/hello-world/</id>
       <content type="html">
-        &lt;p&gt;Olá mundo! É com muita alegria que escrevo este post para anunciar o início do &lt;strong&gt;Balborinho&lt;/strong&gt;. Depois de algumas tentativas e experiências anteriores, chegou a altura certa para criar o Balborinho. Aqui fica o ponto de situação no final do mês de janeiro de 2026.&lt;/p&gt;
+        &lt;p&gt;Olá mundo! É com muita alegria que escrevo este post para anunciar o início do &lt;strong&gt;Balborinho&lt;/strong&gt;. Depois de algumas tentativas e experiências anteriores, chegou a altura certa para criar o Balborinho.&lt;/p&gt;
+
+&lt;p&gt;Aqui fica o ponto de situação no final do mês de janeiro de 2026.
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;data-de-nascimento-do-balborinho&quot;&gt;Data de nascimento do Balborinho&lt;/h2&gt;
 
@@ -106,53 +109,6 @@
       <author>
         
         <name>nafergo</name>
-        
-
-        
-        <uri>https://pixelnest.io/about/</uri>
-        
-      </author>
-    </entry>
-  
-    <entry>
-      <title>The Beginning And The End</title>
-      <link href="https://pixelnest.io/2018/11/the-beginning-and-the-end-copy/" />
-      <updated>2018-11-26T00:00:00+00:00</updated>
-      <id>https://pixelnest.io/2018/11/the-beginning-and-the-end copy/</id>
-      <content type="html">
-        &lt;p&gt;After 5 years of Pixelnest Studio, we — &lt;a href=&quot;https://matthieuoger.com/&quot;&gt;Matthieu&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://dmayance.com/&quot;&gt;Damien&lt;/a&gt; — are moving onto new adventures, starting January 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This is not a breakup!&lt;/strong&gt; Everything is great but after doing the same job for the past 5 years, we want to explore new and different topics, jobs and positions. Steredenn was a &lt;strong&gt;huge critical and commercial success&lt;/strong&gt; (for us at least) and we’re so grateful that we’ve been able to this for the last years.&lt;/p&gt;
-
-&lt;p&gt;We’re deeply thankful for all the people we met and all the players we had.&lt;/p&gt;
-
-&lt;p&gt;And we secretly hope that Steredenn will continue to be played in the next fifty years. 💪&lt;/p&gt;
-
-&lt;p&gt;Some notes:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Steredenn: Binary Stars is coming to iOS on Jan. 2019.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;We are still supporting Steredenn (i.e. fixing bugs - a patch is coming, btw).&lt;/li&gt;
-  &lt;li&gt;We have a final surprise later in 2019.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We are keeping the company alive for at least one or two years. Feel free to contact us if you have any request or question regarding our services or our games. &lt;em&gt;But Pixelnest Studio will not be our main activity anymore&lt;/em&gt;, so don’t expect a quick answer. 😉&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://matthieuoger.com/&quot;&gt;Matthieu&lt;/a&gt; is looking for a &lt;strong&gt;Product Manager&lt;/strong&gt; job in Paris (or Amsterdam). &lt;a href=&quot;https://linkedin.com/in/matthieuoger/&quot;&gt;LinkedIn resume here&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dmayance.com/&quot;&gt;Damien&lt;/a&gt; will continue being a &lt;strong&gt;freelance game developer&lt;/strong&gt;. &lt;a href=&quot;https://fr.linkedin.com/in/damienmayance&quot;&gt;LinkedIn resume here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thanks everyone, it was a fantastic ride for both of us! 🙏&lt;/p&gt;
-
-&lt;p&gt;💋💋💋&lt;/p&gt;
-
-      </content>
-
-      <!-- author -->
-      <author>
-        
-        <name>lília</name>
         
 
         
